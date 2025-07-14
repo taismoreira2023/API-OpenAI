@@ -1,4 +1,6 @@
 # API-OpenAI
+## QueenBot - Assistente Virtual da EcoMart Beauty
+QueenBot é o chatbot oficial da EcoMart Beauty, concebido para ser a assistente virtual elegante, sábia e empoderada que atende as clientes com classe e atenção. Este projeto é um sistema de atendimento e suporte, pensado para oferecer uma experiência real de realeza no universo da beleza e autocuidado feminino.
 
 ## Pré-requisitos
 
