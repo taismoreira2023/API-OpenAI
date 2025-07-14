@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+odfpy
+matplotlib
+ipykernel
+openai
+flask
+python-dotenv
+opencv-python
